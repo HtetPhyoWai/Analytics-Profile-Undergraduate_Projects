@@ -1,7 +1,7 @@
-#OBJECTIVES
-#1)Read in standardized FASTA formatted protein structure data from a sequential text-based data file into a user-defined data structure.
-#2)Parse and assign FASTA formatted protein structure data into an array capable of storing a protein structure’s definition, its amino acid sequence, and the protein’s length andweight in Dalton units.
-#3)Output a report displaying processing results.
+//OBJECTIVES
+//1)Read in standardized FASTA formatted protein structure data from a sequential text-based data file into a user-defined data structure.
+//2)Parse and assign FASTA formatted protein structure data into an array capable of storing a protein structure’s definition, its amino acid sequence, and the protein’s length andweight in Dalton units.
+//3)Output a report displaying processing results.
 
 # Programmer Name :HTET PHYO WAI
 
