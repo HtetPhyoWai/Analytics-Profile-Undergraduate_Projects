@@ -1,2 +1,2 @@
-# Undergraduate_Projects_Collection
-Topics : Data Science | Analytics | Economics | Regression | Finance | Python | C++
+# Projects_Collection
+Topics :  Analytics | Finance | Python | C++
