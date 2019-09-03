@@ -1,0 +1,19 @@
+//Data Structure for a Adjacency List -- the // are comments
+//GraphName GraphType -> GraphName cannot contain embedded spaces GraphType={undirected,directed}
+//VsID VdID weight -> items in list are space delimited Vs-vertex source, Vd-vertex destination, weight of edge
+//SAMPLE 
+//MirielliGraph undirected
+//1 2 1
+//1 3 1
+//
+MirielliGraphList undirected
+1 2 1
+//1 2 1
+//2 1 1
+//2 1 1
+//2 3 1
+//1 4 1
+//5 2 1
+//1 1 1
+//1 1 1
+//2 1 1

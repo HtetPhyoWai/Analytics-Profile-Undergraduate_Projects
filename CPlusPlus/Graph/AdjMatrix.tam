@@ -1,0 +1,19 @@
+//Data Structure for a Adjacency Matrix -- the // are comments
+//GraphName GraphType -> GraphName cannot contain embedded spaces GraphType={undirected,directed}
+//MirielliMatrixGraph undirected
+//1 2 3 4 5 6 -> values 1 to 6 on the first row designate the vertex ID in space delimited list (number of columns must equal number of rows)
+//0 1 0 0 0 0
+//1 0 1 0 1 0
+//0 1 0 1 1 0
+//0 0 1 0 1 0
+//0 1 1 1 0 1
+//0 0 0 0 1 0
+//
+MirielliMatrixGraph undirected
+1 2 3 4 5 6
+0 1 0 0 0 0
+1 0 1 0 1 0
+0 1 0 1 1 0
+0 0 1 0 1 0
+0 1 1 1 0 1
+0 0 0 0 1 0
